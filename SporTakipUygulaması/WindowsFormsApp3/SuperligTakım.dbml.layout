@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SuperligTakım">
+  <DataContextMoniker Name="/SuperligTakımDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dfa9e60e-b40f-45cc-b30d-d3c86caf09da" absoluteBounds="5.25, 2.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/SuperligTakımDataContext/Takımlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02a82cb7-c2e7-491d-b7bf-fe8dc3f6356e" absoluteBounds="5.265, 2.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
